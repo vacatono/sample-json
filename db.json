@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "1",
+      "item_name": "商品１",
+      "item_size": "10号",
+      "flag_display": "0",
+      "div_supply": "2",
+      "div_item": "11",
+      "unit_qty": "1",
+      "item_price": "0",
+      "sales_rate": "0.00",
+      "sales_price": "0",
+      "supplier_id": "7",
+      "supplier_name": "仕入先７"
+    },
+    {
+      "id": "2",
+      "item_name": "商品２",
+      "item_size": "10号",
+      "flag_display": "0",
+      "div_supply": "2",
+      "div_item": "11",
+      "unit_qty": "1",
+      "item_price": "0",
+      "sales_rate": "0.00",
+      "sales_price": "0",
+      "supplier_id": "0",
+      "supplier_name": null
+    },
+    {
+      "id": "3",
+      "item_name": "商品３",
+      "item_size": "10号",
+      "flag_display": "1",
+      "div_supply": "2",
+      "div_item": "11",
+      "unit_qty": "1",
+      "item_price": "0",
+      "sales_rate": "0.00",
+      "sales_price": "0",
+      "supplier_id": "0",
+      "supplier_name": null
+    },
+    {
+      "id": "4",
+      "item_name": "商品４",
+      "item_size": "10号",
+      "flag_display": "1",
+      "div_supply": "2",
+      "div_item": "11",
+      "unit_qty": "1",
+      "item_price": "0",
+      "sales_rate": "0.00",
+      "sales_price": "0",
+      "supplier_id": "0",
+      "supplier_name": null
+    }
+  ]
+}
