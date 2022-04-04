@@ -1,20 +1,13 @@
 {
   "success": true,
-  "total": 4,
+  "total": "2",
   "data": [
     {
       "id": "1",
       "item_name": "item1",
       "item_size": "10",
       "flag_display": "0",
-      "div_supply": "2",
-      "div_item": "11",
-      "unit_qty": "1",
-      "item_price": "0",
-      "sales_rate": "0.00",
-      "sales_price": "0",
-      "supplier_id": "7",
-      "supplier_name": "supplier7"
+      "item_price": "0"
     },
     {
       "id": "2",
@@ -22,41 +15,7 @@
       "item_size": "10",
       "flag_display": "0",
       "div_supply": "2",
-      "div_item": "11",
-      "unit_qty": "1",
-      "item_price": "0",
-      "sales_rate": "0.00",
-      "sales_price": "0",
-      "supplier_id": "0",
-      "supplier_name": null
-    },
-    {
-      "id": "3",
-      "item_name": "item3",
-      "item_size": "10",
-      "flag_display": "1",
-      "div_supply": "2",
-      "div_item": "11",
-      "unit_qty": "1",
-      "item_price": "0",
-      "sales_rate": "0.00",
-      "sales_price": "0",
-      "supplier_id": "0",
-      "supplier_name": null
-    },
-    {
-      "id": "4",
-      "item_name": "item4",
-      "item_size": "10",
-      "flag_display": "1",
-      "div_supply": "2",
-      "div_item": "11",
-      "unit_qty": "1",
-      "item_price": "0",
-      "sales_rate": "0.00",
-      "sales_price": "0",
-      "supplier_id": "0",
-      "supplier_name": null
+      "item_price": "0"
     }
   ]
 }
