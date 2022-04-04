@@ -8,14 +8,21 @@
         "item_name": "item1",
         "item_size": "10",
         "flag_display": "0",
-        "item_price": "0"
+        "item_price": "2500"
       },
       {
         "id": "2",
         "item_name": "item2",
         "item_size": "10",
         "flag_display": "0",
-        "item_price": "0"
+        "item_price": "4800"
+      },
+      {
+        "id": "3",
+        "item_name": "商品3",
+        "item_size": "8",
+        "flag_display": "0",
+        "item_price": "3200"
       }
     ]
   }
